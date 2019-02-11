@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name MiniProj1)(type Legacy)(uri "C:/Users/kwinter/Documents/Spring 2019/Eclectronics/MiniProject1/MiniProj1.lib")(options "")(descr ""))
+  (lib (name LinearReg)(type Legacy)(uri "C:/Users/kwinter/Documents/Spring 2019/Eclectronics/MiniProject1/LinearReg.lib")(options "")(descr ""))
+)
