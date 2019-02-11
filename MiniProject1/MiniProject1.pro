@@ -1,4 +1,4 @@
-update=2/11/2019 2:13:10 AM
+update=2/11/2019 10:38:22 AM
 version=1
 last_client=kicad
 [general]
@@ -12,10 +12,20 @@ NetIExt=net
 version=1
 LibDir=
 [eeschema/libraries]
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceAjustPassiveValues=0
+LabSize=50
+ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=MiniProject12.net
+LastNetListRead=MiniProject1.net
 PadDrill=0.762
 PadDrillOvalY=0.762
 PadSizeH=1.524
@@ -31,13 +41,3 @@ SolderMaskMinWidth=0.25
 DrawSegmentWidth=0.2
 BoardOutlineThickness=0.15
 ModuleOutlineThickness=0.15
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=Pcbnew
-SpiceAjustPassiveValues=0
-LabSize=50
-ERC_TestSimilarLabels=1
